@@ -1,0 +1,1 @@
+This project was created following a tutorial by coding addict on youtube its an e-commerce site
